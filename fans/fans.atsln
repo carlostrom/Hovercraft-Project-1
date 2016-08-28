@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "fans", "fans\fans.cproj", "{8157F1C5-EE77-437F-8572-00AD33C9773E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8157F1C5-EE77-437F-8572-00AD33C9773E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8157F1C5-EE77-437F-8572-00AD33C9773E}.Debug|ARM.Build.0 = Debug|ARM
+		{8157F1C5-EE77-437F-8572-00AD33C9773E}.Release|ARM.ActiveCfg = Release|ARM
+		{8157F1C5-EE77-437F-8572-00AD33C9773E}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
